@@ -8,6 +8,6 @@ Como linkar: `https://github.com/goncalvesdthiago-lgtm/pdfs/blob/main/<pasta>/<a
 
 | Pasta | Assunto |
 |---|---|
-| (em breve) obsidian-graphify | Segundo cérebro com Obsidian + Graphify, passo a passo |
+| [obsidian-graphify](obsidian-graphify/obsidian-graphify.pdf) | Segundo cérebro com Obsidian + Graphify, passo a passo (15 páginas) |
 
 Autor: Thiago Dias.
