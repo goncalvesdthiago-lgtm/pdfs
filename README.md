@@ -14,6 +14,7 @@ Como linkar: `https://github.com/goncalvesdthiago-lgtm/pdfs/blob/main/<pasta>/<a
 | [autoharness](autoharness/autoharness.pdf) | guia completo |
 | [awesome-design-md](awesome-design-md/awesome-design-md.pdf) | guia completo |
 | [bmad-method](bmad-method/bmad-method.pdf) | guia completo |
+| [claude-mem-memoria](claude-mem-memoria/claude-mem-memoria.pdf) | guia completo |
 | [code-to-pr](code-to-pr/code-to-pr.pdf) | guia completo |
 | [compactacao-de-contexto](compactacao-de-contexto/compactacao-de-contexto-resumo.pdf) | resumo |
 | [compactacao-de-contexto](compactacao-de-contexto/compactacao-de-contexto.pdf) | guia completo |
@@ -45,6 +46,7 @@ Como linkar: `https://github.com/goncalvesdthiago-lgtm/pdfs/blob/main/<pasta>/<a
 | [plugin-produto-anthropic](plugin-produto-anthropic/plugin-produto.pdf) | guia completo |
 | [plugins-areas-anthropic](plugins-areas-anthropic/plugins-areas.pdf) | guia completo |
 | [spec-kit](spec-kit/spec-kit.pdf) | guia completo |
+| [superpowers-metodo](superpowers-metodo/superpowers-metodo.pdf) | guia completo |
 | [ui-ux-pro-max-taste](ui-ux-pro-max-taste/ui-ux-pro-max-taste.pdf) | guia completo |
 | [user-research-skill](user-research-skill/user-research-skill.pdf) | guia completo |
 | [wondelai-skills](wondelai-skills/wondelai-skills.pdf) | guia completo |
